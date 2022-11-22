@@ -8,7 +8,7 @@ image = "images/posts/refrain.png"
 
 Long before I switched to Linux, I used Winamp to play music. It was minimalist and did exactly what it was supposed to do. Play music and almost nothing else. So I've never had much desire to try something else. It was also sufficient for me because I didn't listen to music much anyway and when I did, I always just tapped the one song I wanted to play in the file manager.
 
-But later in school I learned about the hit of the time, Spotify. It looked super cool, you can play anything you want without needing to download it. Spotify has also it's official Linux app, so I kept using it after I switched to Linux.
+But later I learned about the hit of the time, Spotify. It looked super cool, you can play anything you want without needing to download it. Spotify has also it's official Linux app, so I kept using it after I switched to Linux.
 
 But later I decided, for various reasons, to get rid of this proprietary application, so I was looking for some open source alternatives. At that time I was already using GNOME and wanted a player that fit into GNOME.
 
